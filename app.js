@@ -584,16 +584,7 @@ const editorApp = createApp({
       // 右下角浮动广告
       floatingAd: {
         ads: [
-          {
-            id: 'zsxq',
-            icon: '🔥',
-            title: 'AI编程知识星球',
-            subtitle: '1500+人已加入 / 限量30元券',
-            tag: '限时335元',
-            tagColor: 'purple',
-            link: 'https://t.zsxq.com/K3vsN',
-            coupon: '30元优惠券'
-          }
+
         ],
         isExpanded: false,
         isVisible: false,
