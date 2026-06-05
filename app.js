@@ -585,26 +585,6 @@ const editorApp = createApp({
       floatingAd: {
         ads: [
           {
-            id: 'yinhe',
-            icon: '🎬',
-            title: '银河录像局',
-            subtitle: 'ChatGPT/Netflix/Claude 一站合租',
-            tag: '93折',
-            tagColor: 'orange',
-            link: 'https://nf.video/o9jj0s',
-            coupon: 'huasheng'
-          },
-          {
-            id: 'huanqiu',
-            icon: '🌍',
-            title: '环球巴士',
-            subtitle: 'ChatGPT Plus合租 35元/月',
-            tag: '热门',
-            tagColor: 'blue',
-            link: 'https://universalbus.cn/?s=5HCba2gPfO',
-            coupon: null
-          },
-          {
             id: 'zsxq',
             icon: '🔥',
             title: 'AI编程知识星球',
